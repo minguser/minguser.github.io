@@ -10,26 +10,33 @@
 ## 4.开始刷入
 （刷前备好SD卡或U盘以防万一！）
 - 重启至REC(音量加+电源键)
-![img](assets/images/v63s1cccyqf1dcxr.png)
+<figure>
+<a><img src="{{site.url}}assets/images/v63s1cccyqf1dcxr.png"></a>
+</figure>
 
 - 选择清除
 
-![img](assets/images/q8mmb8rcjr553ik9.png)
+<figure>
+<a><img src="{{site.url}}assets/images/q8mmb8rcjr553ik9.png"></a>
+</figure>
 
 -选择高级清除勾选（Dalvik/ART Cache,Data,Cache,System）并滑动
-
-![img](assets/images/y8rchvyl71qkhuxr.png)
+<figure>
+<a><img src="{{site.url}}assets/images/y8rchvyl71qkhuxr.png"></a>
+</figure>
 
 - 返回主页选择安装，刷入RADIO底包
-
-![img](assets/images/bw7x8u0hulahsemi.png)
-
+<figure>
+<a><img src="{{site.url}}assets/images/bw7x8u0hulahsemi.png"></a>
+</figure>
 - 刷入ROM
-
-![img](assets/images/2qocuvu9eq0py14i.png)
-
+<figure>
+<a><img src="{{site.url}}assets/images/2qocuvu9eq0py14i.png"></a>
+</figure>
 - 刷入magisk（可选）
 - 刷入gapps（可选）
 - 最后格式化Data，并重启手机
-![img](assets/images/8jn2ujccua8j8aor.png)
+<figure>
+<a><img src="{{site.url}}assets/images/8jn2ujccua8j8aor.png"></a>
+</figure>
 
