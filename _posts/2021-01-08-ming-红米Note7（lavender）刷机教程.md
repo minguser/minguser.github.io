@@ -14,22 +14,22 @@ assets/images/v63s1cccyqf1dcxr.png
 
 -选择清除
 
-assets/images/q8mmb8rcjr553ik9.png
+image: assets/images/q8mmb8rcjr553ik9.png
 
 -选择高级清除勾选（Dalvik/ART Cache,Data,Cache,System）并滑动
 
-assets/images/y8rchvyl71qkhuxr.png
+image: assets/images/y8rchvyl71qkhuxr.png
 
 -返回主页选择安装，刷入RADIO底包
 
-assets/images/bw7x8u0hulahsemi.png
+image: assets/images/bw7x8u0hulahsemi.png
 
 -刷入ROM
 
-assets/images/2qocuvu9eq0py14i.png
+image: assets/images/2qocuvu9eq0py14i.png
 
 -刷入magisk（可选）
 -刷入gapps（可选）
 -最后格式化Data，并重启手机
-assets/images/8jn2ujccua8j8aor.png
+image: assets/images/8jn2ujccua8j8aor.png
 
