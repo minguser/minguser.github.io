@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "红米Note7（lavender）刷机教程"
+author: ming
+categories: [ Lifestyle, Travel ]
+tags: [ France ]
+image: assets/images/2qocuvu9eq0py14i.png
+
+---
+
+
 # 红米Note7（lavender）刷机教程
 ## 1.解锁BL（必须）
 在刷机之前必须解锁手机，解锁手机BL参考(https://jingyan.baidu.com/article/08b6a591a0708c14a80922ff.html)
