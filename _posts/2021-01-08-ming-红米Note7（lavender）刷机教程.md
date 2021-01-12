@@ -4,7 +4,7 @@ title:  "红米Note7（lavender）刷机教程"
 author: ming
 categories: [ Lifestyle, Travel ]
 tags: [ France ]
-image: assets/images/2qocuvu9eq0py14i.png
+image: assets/images/20210112.jpg
 
 ---
 
